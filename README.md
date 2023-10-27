@@ -3,6 +3,9 @@
 ## Datalore
 https://www.jetbrains.com/datalore/
 
+## Final notebook shown in the presentation
+https://datalore.jetbrains.com/report/static/zpe5mYVQUvigXJMPtIVuEp/N3rkrivnCSfiaDDCsXsrHi
+
 ## Papers
 * Camerer, et al. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. _Nature Human Behaviour, 2_(9), 637–644.
 * Pimentel, J. F., et al. (2021). Understanding and improving the quality and reproducibility of Jupyter notebooks. _Empirical Software Engineering, 26_(5). 
